@@ -1,6 +1,7 @@
 <h1 align="center">Hello there! 👋</h1>
 <h3 align="center">Welcome to my GitHub profile!</h3>
-
+<h2 align="center">I'm a Civil Engineer :construction_worker: who realized he is more interested in technology than what happens on construction site and fell in love with Web Development :man_technologist:</h2>
+  
 <h3 align="center">Languages and tools I use:</h3>
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
